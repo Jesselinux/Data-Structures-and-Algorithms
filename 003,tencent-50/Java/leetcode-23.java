@@ -35,7 +35,7 @@
                 queue.offer(node.next);
             }
         }
-        return head;
+        return head;// 返回链表的头结点
     }
 
     /**
